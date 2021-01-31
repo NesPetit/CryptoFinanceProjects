@@ -71,7 +71,7 @@ A list of technologies used within the project:
 Double Spending 
 ```
 $ git clone https://github.com/Nespetit/DoubleSpendAttack
-$ cd ProjectsCryptofinance
+$ cd CryptoFinanceProjects
 $ pip install scipy
 $ pip install matplotlib
 $ pip install numpy
