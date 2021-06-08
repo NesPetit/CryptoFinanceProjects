@@ -6,7 +6,7 @@
 ## General Info
 
 <p>
-Objectif : effectuer une simulation de l'attaque originelle de Satoshi et une simulation de l'attaque de minage égoïste afin de determiner le taux de rendement de la strategie, c'est à dire lorsque l'attaque est plus rentable que la stratégie honnete de minage.
+Objectif : effectuer une simulation de l'attaque originelle de Satoshi et une simulation de l'attaque de minage égoïste afin de determiner le taux de rendement de la strategie, c'est à dire lorsque l'attaque est plus rentable que la stratégie honnete.
 </p>
 
 </br>
