@@ -1,5 +1,5 @@
 # Crypto-Finance 
-## By Alec GUESSOUS and Alexandre PEREZ
+## By Alec GUESSOUS
 
 </br>
 
