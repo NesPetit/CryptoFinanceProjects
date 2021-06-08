@@ -6,10 +6,7 @@
 ## General Info
 
 <p>
-Ce projet scolaire est effectuer dans le cadre de notre formation d'ingenieur Fintech et Blockchain.
-</p>
-<p>
-Le but de cet exercice est d'effectuer une simulation de l'attaque originelle de Staoshi et une simulation de l'attaque de minage égoïste afin de determiner le taux de rendement de la strategie, c'est à dire lorsque l'attaque est plus rentable que la stratégie honnete de minage.
+Objectif : effectuer une simulation de l'attaque originelle de Satoshi et une simulation de l'attaque de minage égoïste afin de determiner le taux de rendement de la strategie, c'est à dire lorsque l'attaque est plus rentable que la stratégie honnete de minage.
 </p>
 
 </br>
