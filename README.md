@@ -1,4 +1,4 @@
-# Crypto-Finance 
+# Simulation of attacks on the bitcoin protocol 
 ## By Alec GUESSOUS
 
 </br>
